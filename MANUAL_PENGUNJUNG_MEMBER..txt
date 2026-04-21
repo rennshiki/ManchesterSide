@@ -1,0 +1,146 @@
+# 📖 MANUAL PENGUNJUNG & MEMBER
+## Manchester Side - Two Sides, One City, Endless Rivalry
+
+---
+
+## 🎯 TENTANG WEBSITE
+Platform berita dan informasi untuk penggemar Manchester City dan Manchester United dengan fitur berita, jadwal, profil pemain, dan interaksi member.
+
+---
+
+## 👤 BAGIAN 1: PENGUNJUNG (Tanpa Login)
+
+### 1.1 Mengakses Website
+1. Buka browser (Chrome, Firefox, Edge)
+2. Ketik alamat website
+3. Tekan Enter
+r
+### 1.2 Menu Navigasi
+- **Home** - Berita terbaru dan featured
+- **Berita** - Semua artikel berita
+- **Jadwal & Hasil** - Pertandingan dan skor
+- **Profil Klub** - Info City & United
+- **Tentang Kami** - Info website
+
+### 1.3 Membaca Berita
+1. Klik menu "Berita"
+2. Pilih artikel yang diinginkan
+3. Klik judul atau gambar artikel
+4. Baca artikel lengkap
+
+**Filter Tersedia:**
+- Kategori: News, Match, Transfer, Interview, Analysis
+- Klub: City, United, Semua
+- Urutan: Terbaru, Terpopuler
+
+### 1.4 Melihat Jadwal Pertandingan
+1. Klik menu "Jadwal & Hasil"
+2. Pilih tab:
+   - **Jadwal** - Pertandingan mendatang
+   - **Hasil** - Pertandingan selesai + skor + pencetak gol
+   - **Statistik** - Head-to-head City vs United
+
+### 1.5 Melihat Profil Klub
+1. Klik menu "Profil Klub"
+2. Pilih tab:
+   - **Profil** - Sejarah dan info klub
+   - **Pemain** - Daftar pemain aktif
+   - **Staff** - Pelatih dan staff
+   - **Prestasi** - Trofi dan pencapaian
+3. Pilih klub (City atau United)
+
+---
+
+## 👥 BAGIAN 2: REGISTRASI MEMBER
+
+### 2.1 Membuat Akun Baru
+1. Klik tombol "Register" (pojok kanan atas)
+2. Isi form registrasi:
+   - Username (unik, min 3 karakter)
+   - Email (valid dan aktif)
+   - Password (min 6 karakter)
+   - Konfirmasi Password
+   - Nama Lengkap
+   - Tim Favorit (opsional)
+3. Klik "Daftar"
+4. Akun berhasil dibuat!
+
+### 2.2 Login ke Akun
+1. Klik tombol "Login"
+2. Masukkan Username/Email
+3. Masukkan Password
+4. Klik "Login"
+
+**Lupa Password:**
+1. Klik "Lupa Password?"
+2. Masukkan email
+3. Cek email untuk link reset
+4. Ikuti instruksi di email
+
+---
+
+## ⭐ BAGIAN 3: FITUR KHUSUS MEMBER
+
+### 3.1 Reaksi Artikel
+1. Login terlebih dahulu
+2. Buka artikel
+3. Scroll ke bawah artikel
+4. Pilih reaksi: 👍 Like, ❤️ Love, 😮 Wow, 😢 Sad, 😠 Angry
+5. Klik icon reaksi
+6. Reaksi tersimpan!
+
+**Catatan:** Hanya 1 reaksi per artikel, bisa diubah kapan saja
+
+### 3.2 Favorit Artikel
+1. Login terlebih dahulu
+2. Buka artikel
+3. Klik icon ⭐ "Simpan ke Favorit"
+4. Artikel tersimpan
+
+**Melihat Favorit:**
+1. Klik menu "Favorit"
+2. Lihat daftar artikel favorit
+3. Klik untuk membaca
+4. Klik ⭐ lagi untuk hapus dari favorit
+
+### 3.3 Mengelola Profil
+1. Login → Klik nama Anda (pojok kanan)
+2. Pilih "Profil"
+3. Edit informasi:
+   - Nama Lengkap
+   - Bio/Deskripsi
+   - Tim Favorit
+   - Upload Avatar (JPG/PNG, max 2MB)
+4. Klik "Simpan Perubahan"
+
+### 3.4 Mengubah Password
+1. Masuk ke Profil
+2. Scroll ke "Ubah Password"
+3. Masukkan:
+   - Password Lama
+   - Password Baru
+   - Konfirmasi Password Baru
+4. Klik "Ubah Password"
+
+### 3.5 Logout
+1. Klik nama Anda (pojok kanan)
+2. Pilih "Logout"
+
+---
+
+## 🔍 BAGIAN 4: FITUR PENCARIAN
+
+### 4.1 Mencari Artikel
+1. Klik icon 🔍 di navigasi
+2. Ketik kata kunci (nama pemain, klub, dll)
+3. Tekan Enter atau klik "Cari"
+4. Lihat hasil pencarian
+5. Klik artikel yang diinginkan
+
+### 4.2 Filter Artikel
+1. Buka halaman "Berita"
+2. Gunakan filter:
+   - **Kategori:** News, Match, Transfer, dll
+   - **Klub:** City, United, Semua
+   - **Urutan:** Terbaru, Terpopuler, Terlama
+3. Artikel akan difilter otomatis
